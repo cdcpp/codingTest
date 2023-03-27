@@ -11,6 +11,6 @@ public class Day03 {
         int b = sc.nextInt();
 
         System.out.println(a - b);
-        System.out.println("~~");
+        System.out.println("~~~");
     }
 }
